@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="146.81709mm"
+   height="66.145836mm"
+   viewBox="0 0 146.8171 66.145836"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="road.svg"
+   inkscape:export-filename="road.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0816441"
+     inkscape:cx="356.86415"
+     inkscape:cy="250.54452"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath960">
+      <rect
+         style="fill:#fa8d8e;fill-opacity:0.884679;fill-rule:evenodd;stroke:none;stroke-width:5.69406;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:34.1641, 34.1641;stop-color:#000000"
+         id="rect962"
+         width="146.05997"
+         height="93.544342"
+         x="-24.340715"
+         y="98.333733"
+         transform="matrix(1,0,0.70710678,0.70710678,0,0)" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-78.60578,-69.873565)">
+    <g
+       id="g1677"
+       transform="matrix(1.0051837,0,-1.0051837,1.0051837,103.07267,-0.36220408)"
+       clip-path="url(#clipPath960)">
+      <rect
+         style="fill:#9a9997;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect234"
+         width="211.66667"
+         height="66.145836"
+         x="47.083961"
+         y="69.873566" />
+      <rect
+         style="fill:#908e8f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+         id="rect1041"
+         width="211.66667"
+         height="13.229167"
+         x="47.083961"
+         y="121.89024" />
+      <path
+         id="rect1041-7"
+         style="fill:#8e8d8e;fill-opacity:0.884679;fill-rule:evenodd;stroke:#000100;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         d="M 47.083961,70.773567 H 258.75063 V 84.002734 H 47.083961 Z" />
+      <path
+         style="fill:#fa8d8e;fill-opacity:0.884679;fill-rule:evenodd;stroke:#f0f018;stroke-width:5.764;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:34.584, 34.584;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="M 91.948448,102.94648 H 110.62874"
+         id="path1588-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#fa8d8e;fill-opacity:0.884679;fill-rule:evenodd;stroke:#f0f018;stroke-width:5.764;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:34.584, 34.584;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 144.55219,102.94648 h 18.68035"
+         id="path1588-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#fa8d8e;fill-opacity:0.884679;fill-rule:evenodd;stroke:#f0f018;stroke-width:5.764;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:34.584, 34.584;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 197.15599,102.94648 h 18.68035"
+         id="path1588-56"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+</svg>

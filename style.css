@@ -1,0 +1,30 @@
+* {
+  border: 1px solid red;
+}
+
+#container {
+  position: relative;
+}
+#container canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#background {
+  z-index: 0;
+}
+
+#player {
+  z-index: 1;
+}
+#butterfly{
+  z-index: 2;
+}
+
+#ui {
+  z-index: 3;
+}
+#anim{
+  z-index: 4;
+}
