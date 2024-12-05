@@ -94,10 +94,4 @@ function fadeCanvas(cvs, fade) {
   ctx.fillStyle= '#FFF';
   ctx.fillRect(0,0,cvs.width, cvs.height);    
   ctx.restore();  
-  // ctx.globalCompositeOperation = "destination-in";
-  // ctx.fillStyle = "rgba(255, 255, 255, 0.1)";
-  // ctx.beginPath();
-  // ctx.fillRect(0, 0, cvs.width, cvs.height);
-
-  // ctx.globalCompositeOperation = "source_over";
 }
